@@ -6,6 +6,7 @@ import 'package:agora_rtc_engine/rtc_remote_view.dart' as RtcRemoteView;
 import 'package:flutter/material.dart';
 
 import '../utils/settings.dart';
+import '../utils/settings.dart';
 
 class CallPage extends StatefulWidget {
   /// non-modifiable channel name of the page
@@ -40,6 +41,7 @@ class _CallPageState extends State<CallPage> {
   @override
   void initState() {
     super.initState();
+    print(Token);
     // initialize agora sdk
     initialize();
   }
