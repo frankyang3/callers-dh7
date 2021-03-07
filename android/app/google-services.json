@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116462010180",
+    "project_id": "callers-dh7",
+    "storage_bucket": "callers-dh7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116462010180:android:df35b1ab40d3db8e1e6111",
+        "android_client_info": {
+          "package_name": "com.example.agoraflutterquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116462010180-rmclh5kjbrf7gpu5u3p41deo484siulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-HHZK8OtX4_TubtIrqE5HFMjUdHKNcWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116462010180-rmclh5kjbrf7gpu5u3p41deo484siulb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
